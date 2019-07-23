@@ -1,0 +1,69 @@
+{
+    "name": "魔塔",
+    "hero": {
+        "init": {
+            "attact": 50,
+            "defence": 40,
+            "hp": 300,
+            "exp": 20,
+            "gold": 10
+        },
+        "items": {}
+    },
+    "roles": {},
+    "items": {
+        "i001": {
+            "name": "wall",
+            "title": "墙"
+        },
+        "i011": {
+            "name": "yellow_key",
+            "title": "黄钥匙"
+        },
+        "i012": {
+            "name": "blue_key",
+            "title": "蓝钥匙"
+        },
+        "i013": {
+            "name": "red_key",
+            "title": "红钥匙"
+        },
+        "i014": {
+            "name": "yellow_door",
+            "title": "黄门"
+        },
+        "i015": {
+            "name": "blue_door",
+            "title": "蓝门"
+        },
+        "i016": {
+            "name": "red_door",
+            "title": "红门"
+        },
+        "i017": {
+            "name": "black_door",
+            "title": "黑门"
+        },
+        "i020": {
+            "name": "kinfe",
+            "title": "匕首"
+        }
+    },
+    "monsters": [
+        {
+            "no": "m001",
+            "name": "xxx",
+            "attact": 50,
+            "defence": 40,
+            "hp": 300,
+            "damage": "normal",
+            "exp": 20,
+            "gold": 10
+        }
+    ],
+    "maps": {
+        "1": [
+            ""
+        ]
+    }
+}
